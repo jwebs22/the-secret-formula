@@ -1,0 +1,34 @@
+body
+{
+    background-color: rgb(132, 165, 206);
+    text-align: center;
+}
+
+
+form
+{
+    border: 3px dotted rgb(16, 12, 97);
+    display: inline-block;
+    border-radius: 10px;
+}
+
+
+#alerter
+{
+    padding: 15px;
+}
+
+#sandwichBuilder
+{
+    padding: 15px;
+}
+
+#appointment
+{
+    padding: 15px;
+}
+
+#createAccount
+{
+    padding: 15px;
+}
